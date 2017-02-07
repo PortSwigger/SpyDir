@@ -6,5 +6,5 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Ryan Reid
-ShortDescription: Provides a mechanism to enumerate endpoints within a web application via a local source code repository
+ShortDescription: Enumerates application endpoints via a local source code repository.
 EntryPoint: SpyDir.py
