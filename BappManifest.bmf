@@ -2,7 +2,7 @@ Uuid: b0afcc21f8dc4d0aad236101f7259aa1
 ExtensionType: 2
 Name: SpyDir
 ScreenVersion: 0.8.5
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Ryan Reid
